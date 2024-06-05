@@ -18,3 +18,11 @@ Navigate to the project directory.
 3. Run the server using the command:
 node time_server.js
 4. Open your web browser http://localhost:8000/api/currenttime. You should see a JSON client side response with the current date and time. Also, use the http://localhost:8000/ to see result of the server side.
+
+## IMAGES
+
+Client side browser:
+ ![image](https://github.com/zeynnepps/HTTP-JSON-API-Node.js-Time-Server/assets/49025266/35018bc7-0382-4e6c-affb-6789970fcac5)
+
+Server side browser:
+ ![image](https://github.com/zeynnepps/HTTP-JSON-API-Node.js-Time-Server/assets/49025266/d865f9d6-540f-46ab-a944-6ccf65f6716e)
