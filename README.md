@@ -22,7 +22,9 @@ node time_server.js
 ## IMAGES
 
 Client side browser:
+
 ![image](https://github.com/zeynnepps/HTTP-JSON-API-Node.js-Time-Server/assets/49025266/35018bc7-0382-4e6c-affb-6789970fcac5)
 
 Server side browser:
-![image](https://github.com/zeynnepps/HTTP-JSON-API-Node.js-Time-Server/assets/49025266/d865f9d6-540f-46ab-a944-6ccf65f6716e)
+
+ ![image](https://github.com/zeynnepps/HTTP-JSON-API-Node.js-Time-Server/assets/49025266/e7238e93-5376-456c-a8d2-d236daa3d8f2)
